@@ -1,0 +1,16 @@
+body {
+    font-family: Tahoma;
+    background-color: #F9F9F9;
+}
+h1, h3, h4 {
+    font-family: sans-serif;
+}
+a {
+    color: #193CB8;
+    display: inline-block;
+    margin: 5px;
+    font-size: 18px;
+}
+img {
+    border-radius: 1%;
+}
